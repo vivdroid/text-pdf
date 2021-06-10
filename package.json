@@ -2,7 +2,7 @@
   "name": "viv-text-pdf",
   "version": "1.0.0",
   "description": "<!-- git remote add origin https://vivdroid@github.com/vivdroid/text-pdf.git -->",
-  "main": "makeTextPDF.js",
+  "main": "makeTextPDF.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
